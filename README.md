@@ -1,6 +1,8 @@
 <div align="center">
 
 <p><img src="https://64.media.tumblr.com/4febd685cd1465cc7dff02c1f0ab0b6b/6bb81ca265a4d8a0-77/s400x600/4bee1b561d6d8ba9f30cee75e0cf0c8e0d7099ab.gif" alt="gif"></p>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u0u4aguznmg71vt7b17xnp0vc&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u0u4aguznmg71vt7b17xnp0vc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f">
 <p><img src="https://64.media.tumblr.com/1f7616dce91bc86d7b05884bd81ff039/29d4c867781fa997-3e/s400x600/9fbad5ab46aac0f4a3ccbd619f8534aab0305c43.gifv" alt="gif"><img src="https://64.media.tumblr.com/1f7616dce91bc86d7b05884bd81ff039/29d4c867781fa997-3e/s400x600/9fbad5ab46aac0f4a3ccbd619f8534aab0305c43.gifv" alt="gif"></p>
 <img src="https://i.postimg.cc/N0x80kNC/ddmfe72-b5839c64-91a5-4ba2-9db4-3274ae3dd2d5.gif" alt="gif"> 
 <img src="https://i.postimg.cc/FRQrzfR0/Tumblr_l_945810062362220.png" alt="gif">
